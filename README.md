@@ -3,7 +3,6 @@
 &nbsp;&nbsp;<sup>👾 &#12299;I'm Passionate Full Stack Developer.</sup>
 
 ----
-<img align="right" alt="Developer" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ2OTI5M2Y0Y2FjODkxMmNhMmE3YmJkMmI4ZTBiNjcxZTc3ZjNiNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharanm95&label=Profile%20views&color=0e75b6&style=flat" alt="hariharanm95" /> </p>
 
