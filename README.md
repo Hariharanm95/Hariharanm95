@@ -10,6 +10,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hariharanm95&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
