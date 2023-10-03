@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharanm95&label=Profile%20views&color=0e75b6&style=flat" alt="hariharanm95" /> </p>
 
+#### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hariharanm95&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharanm95&show_icons=true&locale=en&layout=compact" alt="hariharanm95" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
